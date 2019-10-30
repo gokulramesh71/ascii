@@ -1,4 +1,4 @@
-package com.softcell.mbx.workflow.connector;
+package com.demo;
 
 public class S1 {
 
